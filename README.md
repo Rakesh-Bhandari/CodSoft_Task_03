@@ -39,4 +39,4 @@ This GitHub repository contains a robust Password Generator application develope
 
 ---
 
-This project was developed as part of an internship task to demonstrate proficiency in Python programming and basic software development practices.
+This project was developed as part of an internship task given by @CodSoft to demonstrate proficiency in Python programming and basic software development practices.
