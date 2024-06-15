@@ -31,7 +31,7 @@ This GitHub repository contains a robust Password Generator application develope
 
 3. **Run the Application:**
    ```bash
-   python password_generator.py
+   python paswword_generator.py
    ```
 
 4. **Commands:**
